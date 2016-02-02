@@ -61,6 +61,7 @@ hr{
   line-height:14px;
   opacity:1;
   transition:all 0.1s
+  text-decoration:none;
 }
 .close{
   color:#fff;
@@ -109,14 +110,17 @@ h1 {
   font-weight:300;
 }
 
+
 h1 sup{
   font-size:8px;
   top:-30px;
 }
-
-
-
 #home{
   background: url('') center no-repeat;
   background-size:cover
+}
+
+#About img {
+    float: right;
+    margin: 0 0 10px 10px;
 }

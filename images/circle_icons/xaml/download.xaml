@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Width="100" Height="100" Clip="F1 M 0,0L 100,0L 100,100L 0,100L 0,0">
+	<Canvas x:Name="Layer_1" Width="1600" Height="1200" Canvas.Left="0" Canvas.Top="0">
+		<Path Width="100" Height="100" Canvas.Left="0" Canvas.Top="4.57764e-005" Stretch="Fill" Fill="#FF404142" Data="M 50,4.57764e-005C 77.6143,4.57764e-005 100,22.3858 100,50C 100,77.6143 77.6143,100 50,100C 22.3857,100 0,77.6143 0,50C 0,22.3858 22.3857,4.57764e-005 50,4.57764e-005 Z M 28,58.0003L 28,72.0003L 73,72.0003L 73,58.0003L 69,58.0003L 69,67.0003L 32,67.0003L 32,58.0003L 28,58.0003 Z M 57,29.0003L 57,47.0003L 64.9998,47.0003L 50,64.0003L 36,47.0003L 44,47.0003L 44,29.0003L 44,28.0003L 57,28.0003L 57,29.0003 Z "/>
+	</Canvas>
+</Canvas>
